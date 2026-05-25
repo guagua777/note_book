@@ -1,0 +1,696 @@
+1
+0:0:3,4 --> 0:0:5,74
+Firstly i want to talk about the overall structure
+
+2
+0:0:5,74 --> 0:0:8,5
+So how long should the resume be
+
+3
+0:0:8,5 --> 0:0:12,41
+As some scientific research shows that recruiters will give every resume for
+
+4
+0:0:12,41 --> 0:0:14,19
+Like seven seconds
+
+5
+0:0:14,19 --> 0:0:16,61
+So one page should be the best fit
+
+6
+0:0:16,61 --> 0:0:19,64
+And please use no more than two pages
+
+7
+0:0:20,28 --> 0:0:21,7
+Try to make it clean
+
+8
+0:0:21,7 --> 0:0:22,619
+Simple
+
+9
+0:0:22,619 --> 0:0:24,259
+Professional and short
+
+10
+0:0:24,259 --> 0:0:28,179
+The second thing is that don't put your photos on your resume
+
+11
+0:0:28,179 --> 0:0:29,719
+They're looking for software engineers
+
+12
+0:0:29,719 --> 0:0:30,699
+Random models
+
+13
+0:0:30,699 --> 0:0:33,8
+So even yourself is really gorgeous
+
+14
+0:0:33,8 --> 0:0:37,129
+Please don't put your photos as no one cares
+
+15
+0:0:37,129 --> 0:0:38,889
+And also with through space
+
+16
+0:0:38,889 --> 0:0:42,9
+The third thing to remember is that don't use colorful things
+
+17
+0:0:43,56 --> 0:0:46,78
+Like a section filled with red or green
+
+18
+0:0:46,78 --> 0:0:48,58
+And another section in white
+
+19
+0:0:48,58 --> 0:0:51,3
+The fourth thing is that the structure
+
+20
+0:0:51,36 --> 0:0:55,1
+The header section would always be our contact information
+
+21
+0:0:55,1 --> 0:0:59,989
+And then there are three main sections from top to bottom
+
+22
+0:1:4,62 --> 0:1:7,2
+If you're a student or a new graduate
+
+23
+0:1:7,2 --> 0:1:11,81
+You can push your education after contact information rather than skills
+
+24
+0:1:11,81 --> 0:1:15,89
+Because you are pretty much just a new graduate and student
+
+25
+0:1:15,89 --> 0:1:18,66
+And don't have too many experiences yet
+
+26
+0:1:19,2 --> 0:1:24,579
+The last thing is that the file name of your resume can be your name
+
+27
+0:1:24,579 --> 0:1:25,339
+Dash role
+
+28
+0:1:25,339 --> 0:1:29,92
+You're applying for years of experience for students
+
+29
+0:1:29,92 --> 0:1:33,24
+Just your name dash dash university
+
+30
+0:1:33,24 --> 0:1:36,31
+Let's talk about the contact information
+
+31
+0:1:36,31 --> 0:1:41,2
+You want to make your full name and prefer name above all
+
+32
+0:1:41,22 --> 0:1:43,56
+And then your email address
+
+33
+0:1:43,56 --> 0:1:47,94
+Phone number location in a smaller font size
+
+34
+0:1:47,94 --> 0:1:51,14
+Maybe attach a github link or your linkedin
+
+35
+0:1:51,14 --> 0:1:53,89
+If you feel really comfortable about it
+
+36
+0:1:53,89 --> 0:1:56,44
+The first main section is skills
+
+37
+0:1:56,62 --> 0:2:3,2
+The first point is that you need to include your programming languages technologies like docker
+
+38
+0:2:3,2 --> 0:2:4,18
+Message two
+
+39
+0:2:4,18 --> 0:2:6,9
+And your languages like english or mandarin
+
+40
+0:2:6,9 --> 0:2:9,2
+Remember we don't say chinese
+
+41
+0:2:9,2 --> 0:2:10,88
+We say mandarin
+
+42
+0:2:10,88 --> 0:2:14,6
+The second point is that you don't necessarily have to raise your skills
+
+43
+0:2:14,6 --> 0:2:17,2
+Like using stars or different levels
+
+44
+0:2:17,2 --> 0:2:22,5
+And the third point is that you need to read the job descriptions
+
+45
+0:2:22,5 --> 0:2:27,69
+And see what kind of skills they are looking for and tailor your resume scale section
+
+46
+0:2:27,69 --> 0:2:28,45
+Accordingly
+
+47
+0:2:28,45 --> 0:2:34,72
+It will help you to pass the automatic screening system in the match skills as many as possible
+
+48
+0:2:34,72 --> 0:2:41,3
+The next thing is you only pull the skills when you are sure that you can interview with
+
+49
+0:2:41,3 --> 0:2:41,6
+Someone
+
+50
+0:2:41,6 --> 0:2:47,6
+May have just watched several videos about python and have never written any code
+
+51
+0:2:47,6 --> 0:2:51,88
+And he or she certainly are not able to have an interview about python
+
+52
+0:2:51,88 --> 0:2:52,88
+So don't put it
+
+53
+0:2:52,88 --> 0:2:56,88
+The fifth thing is do we need to include excel skills
+
+54
+0:2:56,88 --> 0:2:58,2
+Please don't do that
+
+55
+0:2:58,2 --> 0:3:1,929
+Don't write some obvious things like windows
+
+56
+0:3:1,929 --> 0:3:2,709
+Mac os
+
+57
+0:3:2,709 --> 0:3:3,869
+Visual studio code
+
+58
+0:3:3,869 --> 0:3:5,36
+Word powerpoint
+
+59
+0:3:5,36 --> 0:3:6,92
+You are wasting your space
+
+60
+0:3:6,92 --> 0:3:9,98
+The second main section is working experience
+
+61
+0:3:9,98 --> 0:3:14,46
+The first point is to make all experiences relevant
+
+62
+0:3:14,619 --> 0:3:17,639
+So if you want to apply for a software engineering role
+
+63
+0:3:17,639 --> 0:3:22,19
+Please don't put your internships in library or in the kfc
+
+64
+0:3:22,19 --> 0:3:23,76
+This is very important
+
+65
+0:3:23,76 --> 0:3:25,74
+And don't put those small jobs
+
+66
+0:3:25,74 --> 0:3:28,72
+And cramming them into your one page resume
+
+67
+0:3:28,72 --> 0:3:33,68
+The second point is that we want to order our experiences from the latest one
+
+68
+0:3:33,68 --> 0:3:35,78
+From top to bottom
+
+69
+0:3:35,78 --> 0:3:39,4
+They are more focused on the recent jobs and experiences
+
+70
+0:3:39,4 --> 0:3:42,38
+Rather than internships ten years ago
+
+71
+0:3:42,42 --> 0:3:45,96
+The third thing is how to write each experience
+
+72
+0:3:45,96 --> 0:3:48,16
+You will write the role or position
+
+73
+0:3:48,16 --> 0:3:49,87
+And the company name
+
+74
+0:3:49,87 --> 0:3:52,95
+And the time with both months and yeah
+
+75
+0:3:52,95 --> 0:3:57,19
+Then you will use from three to five bullet points
+
+76
+0:3:57,19 --> 0:4:1,42
+To show the most important things in each project
+
+77
+0:4:1,42 --> 0:4:4,12
+You will use the past to describe
+
+78
+0:4:4,12 --> 0:4:5,32
+Like designed
+
+79
+0:4:5,32 --> 0:4:7,2
+Rather than design
+
+80
+0:4:7,299 --> 0:4:13,38
+You will not use subjects like i he she they we
+
+81
+0:4:13,38 --> 0:4:17,56
+If you have been a tutor for computer science class in your university
+
+82
+0:4:17,56 --> 0:4:19,22
+You are new graduates
+
+83
+0:4:19,22 --> 0:4:21,76
+Who does not have too many experiences
+
+84
+0:4:21,76 --> 0:4:23,33
+You can also put this
+
+85
+0:4:23,33 --> 0:4:25,17
+It's one experience with
+
+86
+0:4:25,17 --> 0:4:30,46
+Only like one or two bullet points to briefly introduce what you have done
+
+87
+0:4:30,78 --> 0:4:32,88
+Data of your success
+
+88
+0:4:32,88 --> 0:4:36,48
+So the last question is the core part of the experience
+
+89
+0:4:36,48 --> 0:4:41,42
+How to write a good bullet point to describe your work
+
+90
+0:4:41,76 --> 0:4:46,2
+I have summarized a formula for you guys to quickly on board
+
+91
+0:4:46,2 --> 0:4:48,5
+To this english resume
+
+92
+0:4:48,659 --> 0:4:51,499
+E plus i ng plus g
+
+93
+0:4:51,499 --> 0:4:53,219
+Or by the edmeans
+
+94
+0:4:53,219 --> 0:4:57,3
+To use past form to describe what you have done in the past
+
+95
+0:4:57,3 --> 0:4:57,79
+The i n
+
+96
+0:4:57,79 --> 0:5:1,15
+G means what is the result of your work
+
+97
+0:5:1,15 --> 0:5:5,43
+And please give a number or data to show your success
+
+98
+0:5:5,43 --> 0:5:11,25
+The last i ng or buy to introduce what kinds of techniques or tools you have used
+
+99
+0:5:11,25 --> 0:5:16,29
+Like rest api redis then comes another cool part
+
+100
+0:5:16,29 --> 0:5:19,43
+Please assess your impact by quantifying it
+
+101
+0:5:19,43 --> 0:5:21,27
+You said you have done a really good job
+
+102
+0:5:21,27 --> 0:5:23,39
+But how good it is
+
+103
+0:5:23,39 --> 0:5:24,219
+They don't know
+
+104
+0:5:24,219 --> 0:5:27,849
+So use like increased twenty percent revenue
+
+105
+0:5:27,849 --> 0:5:32,18
+Increase the ability to ninety eight percent to show your work
+
+106
+0:5:32,18 --> 0:5:37,34
+And dong used too many technical details as recruiters and north of engineers
+
+107
+0:5:37,34 --> 0:5:42,25
+Please give an overall general description of your accomplishments
+
+108
+0:5:42,25 --> 0:5:44,51
+But not dive into too many details
+
+109
+0:5:44,51 --> 0:5:49,84
+Like use word protocol and how to optimize each parameter in your deep learning models
+
+110
+0:5:50,659 --> 0:5:52,319
+Just give a brief overview
+
+111
+0:5:52,319 --> 0:5:57,75
+Like optimizing the models and increases its accuracy to ninety five percent
+
+112
+0:5:57,75 --> 0:6:2,13
+Or some people just use a docker to establish a stable framework
+
+113
+0:6:2,13 --> 0:6:3,85
+To deploy microservices
+
+114
+0:6:3,85 --> 0:6:8,52
+And they tend to put too many details on their resume list every step
+
+115
+0:6:8,52 --> 0:6:13,28
+Including how to build and poor images and give every parameters
+
+116
+0:6:13,28 --> 0:6:14,62
+But please don't do that
+
+117
+0:6:14,62 --> 0:6:15,7
+As you can just say
+
+118
+0:6:15,7 --> 0:6:19,95
+The stability of the system reaches reaches ninety nine percent
+
+119
+0:6:19,95 --> 0:6:22,29
+Outperforming the traditional system
+
+120
+0:6:22,29 --> 0:6:26,54
+Several simple sentences would bring your success to your life
+
+121
+0:6:30,299 --> 0:6:32,759
+The last section is about your education
+
+122
+0:6:32,759 --> 0:6:37,61
+Please make sure that you have your university name degree in the graduation
+
+123
+0:6:37,61 --> 0:6:39,2
+Year and month on it
+
+124
+0:6:39,2 --> 0:6:41,52
+If you have a good gpa or ranking
+
+125
+0:6:41,52 --> 0:6:42,76
+Please put it as well
+
+126
+0:6:42,76 --> 0:6:45,15
+If you also have really impressive awards
+
+127
+0:6:45,15 --> 0:6:47,43
+You can have another role to list them
+
+128
+0:6:47,43 --> 0:6:50,53
+Don't put irrelevant awards like instruments
+
+129
+0:6:50,53 --> 0:6:53,58
+Remember for new graduates or students
+
+130
+0:6:53,659 --> 0:6:56,599
+Make me section on the top of the resume
+
+131
+0:6:56,599 --> 0:6:59,39
+But for experienced software engineers
+
+132
+0:6:59,39 --> 0:7:4,34
+Please don't put too much effort into this section and make it too long
+
+133
+0:7:5,8 --> 0:7:9,42
+Recruiters will care more about your skills and working experience
+
+134
+0:7:9,42 --> 0:7:10,2
+Okay
+
+135
+0:7:10,2 --> 0:7:11,78
+I have listed all critical tips
+
+136
+0:7:11,78 --> 0:7:12,56
+Both
+
+137
+0:7:56,7 --> 0:8:0,6
+You should reduce the decrease the hydrogen
+
+138
+0:8:0,6 --> 0:8:1,72
+Decrease
+
+139
+0:10:16,2 --> 0:10:18,88
+When in the stable to
+
+140
+0:11:40,65 --> 0:11:41,9
+Just stand alone
+
+141
+0:11:50,19 --> 0:11:52,39
+O bin here that could
+
+142
+0:11:52,39 --> 0:11:53,939
+That could be in here
+
+143
+0:12:18,72 --> 0:12:21,12
+Now go in my beautiful father goggle
+
+144
+0:12:21,12 --> 0:12:22,26
+Like on your shoulder
+
+145
+0:12:22,26 --> 0:12:24,18
+And going to sit on
+
+146
+0:12:24,18 --> 0:12:25,14
+And your alert
+
+147
+0:12:25,14 --> 0:12:26,68
+Your alert
+
+148
+0:12:26,9 --> 0:12:28,46
+Your on
+
+149
+0:12:28,46 --> 0:12:30,89
+Your monitoring system
+
+150
+0:12:38,91 --> 0:12:42,47
+Push the accident and why i should go
+
+151
+0:12:42,47 --> 0:12:44,3
+And it's all there from which you guys
+
+152
+0:12:44,3 --> 0:12:44,57
+From the
+
+153
+0:12:57,12 --> 0:13:0,0
+Go to a go to must love you
+
+154
+0:13:0,0 --> 0:13:0,88
+Don't change it all
+
+155
+0:13:0,88 --> 0:13:2,84
+A single sit on and your go to
+
+156
+0:13:23,86 --> 0:13:26,78
+Cropping tied the cross platform
+
+157
+0:13:31,62 --> 0:13:36,14
+Jin had a platform platform to form
+
+158
+0:13:36,14 --> 0:13:43,859
+Like the egg apple as young in time about the fish on that
+
+159
+0:14:15,22 --> 0:14:18,719
+Total for the giant for capability
+
+160
+0:14:19,16 --> 0:14:22,2
+Don't know when the end to end
+
+161
+0:14:22,3 --> 0:14:26,16
+So don't don't don't go
+
+162
+0:14:26,16 --> 0:14:27,38
+Donuts
+
+163
+0:14:27,38 --> 0:14:29,34
+You don't put the mind
+
+164
+0:14:29,34 --> 0:14:30,4
+You don't
+
+165
+0:14:40,98 --> 0:14:42,62
+So don't
+
+166
+0:14:43,82 --> 0:14:45,92
+So don't do this in rule
+
+167
+0:15:7,95 --> 0:15:9,51
+Mized now
+
+168
+0:15:9,51 --> 0:15:12,93
+Let's take a look at what vocabulary in software engineering
+
+169
+0:15:12,93 --> 0:15:16,479
+Can help you to describe your project in your resume
+
+170
+0:15:17,18 --> 0:15:19,76
+If you want a template to build your
+
+171
+0:15:19,9 --> 0:15:21,14
+If you want
+
+172
+0:15:21,14 --> 0:15:22,38
+If you want
+
+173
+0:15:22,38 --> 0:15:25,68
+If you want a template to build your resume
+
+174
+0:15:25,68 --> 0:15:28,64
+I have one and please follow me and messaging me
+
